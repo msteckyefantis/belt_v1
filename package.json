@@ -1,7 +1,7 @@
 {
   "name": "belt_v1",
   "version": "1.0.0",
-  "description": "Belt, the first version",
+  "description": "A Sample React Webpage with Router and ReduxX",
   "main": "server.js",
   "directories": {
     "lib": "lib"
